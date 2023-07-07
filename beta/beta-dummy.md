@@ -1,0 +1,3 @@
+APPROVED USERS ONLY -- No, I'm not going to sugarcoat it. This is a Approved Beta OTA update for your {{device}} with tag {{tag}}, including the latest {{security_patch_date}} security patches and critical bugfixes. Please note that this pre-release version may contain errors and defects that could impact the normal functioning of your device.
+
+You are free to use your device as usual, but kindly refrain from discussing or commenting on this update externally, unless previously discussed with the team. If you encounter any issues or have feedback, please send it to {{beta_discuss_header}}. Your participation is appreciated!

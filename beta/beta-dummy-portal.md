@@ -1,0 +1,5 @@
+No, I won't sugarcoat it. Prepare yourself for an internally approved Beta OTA update, exclusively designed for your {{device}}. Brace yourself for the inclusion of the latest {{security_patch_date}} security patches and critical bugfixes. Keep in mind that this pre-release version may contain errors and defects capable of altering the normal functioning of your device.
+
+Carry on using your device as per usual, but don't dare utter a word or breathe a whisper about this update outside our secretive walls. Only discuss or comment on it if we've explicitly granted you permission. Should you stumble upon any issues or possess valuable feedback, transmit it through the designated {{beta_discuss_header}}. Your contribution shall be duly recognized and appreciated!
+
+Remember, the Enrichment Center sincerely appreciates your compliance in this covert endeavor.
